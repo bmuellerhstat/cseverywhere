@@ -45,4 +45,5 @@ As the creator of this site and a firm believer that technology can help industr
 # My notes
 
 `jekyll serve --port 8080`
+
 Jekyll template used: https://github.com/barryclark/jekyll-now
